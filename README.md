@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 10.05.25
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![443171619-af65fff5-b2e9-4af9-94d7-5371cb3cf774](https://github.com/user-attachments/assets/a894e597-89cc-40cb-afd3-dfad49534414)
+
+![443171891-8342b1a7-6872-4016-aaeb-a48c9d51091a](https://github.com/user-attachments/assets/791e391b-60fe-4c83-8d5a-0f18abdf5593)
+
+![443171953-5aaa1bff-75e9-4d5f-98f1-1988b1fdd2c6](https://github.com/user-attachments/assets/5a12f011-f4f7-4b9c-8762-8aafc37e0121)
+
+### Name:ABINAYA A
+### Register Number:212224230004
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
